@@ -279,7 +279,7 @@ Fill out the relevant information such as `name`, `description`, `start and end 
 {% hint style="info" %}
 You can look at an example experiment at: [https://api.smartcitizen.me/ui/experiments/6](https://api.smartcitizen.me/ui/experiments/6)
 
-<img src="broken-reference" alt="" data-size="original">
+<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ### Advanced devices
@@ -388,7 +388,7 @@ The kit supports Wi-Fi WEP, WPA/WPA2 and open networks, those the standard Wi-Fi
 
 ### **SD Mode (offline)**
 
-If we do not have an internet connection, we can use the SD mode. In this case, the device will record the data on the micro SD card. Later we can read the card using a card reader. The recorded data can be visually explored in a spreadsheet but also published on the platform utilising the [UPLOAD CSV](https://docs.smartcitizen.me/Guides/getting%20started/Uploading%20SD%20Card%20Data/?h=csv) option.
+If we do not have an internet connection, we can use the SD mode. In this case, the device will record the data on the micro SD card. Later we can read the card using a card reader. The recorded data can be visually explored in a spreadsheet but also published on the platform utilising the [UPLOAD CSV](https://docs.smartcitizen.me/guides/getting-started/uploading-sd-card-data/) option.
 
 ### **Limitations**
 
