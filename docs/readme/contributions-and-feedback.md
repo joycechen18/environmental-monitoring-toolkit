@@ -18,16 +18,17 @@ We really appreciate the feedback, specially if you can add some additional cont
 
 ### Submitting via GitHub / email
 
-*   **I'm submitting a …**&#x20;
+*   **I'm submitting a …**
 
     This is the category of your feedback. You need to choose whether you are reporting a problem you found or requesting that new content be added. This helps the team understand the fundamental nature of your submission right away.
-*   **problem report**
 
-    You found something that isn't working correctly, is confusing, or seems wrong.
-*   **new content request**&#x20;
+    *   **problem report**
 
-    You think something is missing or could be added to make the toolkit better.
-*   **What is the current behavior?**&#x20;
+        You found something that isn't working correctly, is confusing, or seems wrong.
+    *   **new content request**
+
+        You think something is missing or could be added to make the toolkit better.
+*   **What is the current behavior?**
 
     This is where you describe the situation as it is now.
 
