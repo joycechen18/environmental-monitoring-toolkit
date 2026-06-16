@@ -39,6 +39,7 @@ Below are some of the considerations that are important when conducting environm
 * How to set up a new measurement group [Hollandse-Luchten-Handboek-september-2022.pdf](https://hollandse-luchten.org/wp-content/uploads/sites/9/Hollandse-Luchten-Handboek-september-2022.pdf)
 * Citizen Sensing – a toolkit on how to set up a citizen sensing project from begin to end [Citizen Sensing (waag.org)](https://waag.org/sites/waag/files/2018-03/Citizen-Sensing-A-Toolkit.pdf)
 * Tool to analyze Citizen Science data, for example look at wind directions, group and average data, look at weekly patterns etc. [Samen Analyseren Tool (samenmeten.nl)](https://analyseren.samenmeten.nl/)
+* Smart Citizen Forum: This online community platform shares kmowledge about the Smart Citizne kits. It provides discussion and support for Smart Citizen platform where end users seek tehnical help, troubleshooting, and share projects and collaborating on projects related to the Smart Citizen ecosystem. [Enhancing Citizen Science - CitiObs](https://citiobs.eu/citiobs-knowledge-platform/)
 
 ## You might also be interested in…
 
